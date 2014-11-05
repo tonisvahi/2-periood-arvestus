@@ -6,6 +6,17 @@
   </head>
 
   <body>
+  <?php
+  $arvestus = isset($_COOKIE["arvestus"]) ? $_COOKIE : "";
+  if (!isset($_COOKIE["arvestus"]))
+  {
+    echo "Cookie on olemas" ;
+  }
+  else
+  {
+    echo "Cookie-t ei ole!";
+  }
+  ?>`
     <!-- Kustuta see funktsioon (print_r() koos <pre> elemendiga) pärast seda, kui oled veendunud, et programm töötab. -->
     <pre><?php print_r($_COOKIE); ?></pre>
   </body>

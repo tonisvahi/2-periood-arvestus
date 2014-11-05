@@ -1,3 +1,10 @@
+<?php
+$name = "arvestus";
+$value = "Cookie on olemas";
+$expire = time() +20;
+setcookie($name, $value, $expire);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
