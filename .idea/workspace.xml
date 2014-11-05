@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8733d397-1dd4-4853-b6d9-1d52642b7637" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ylesanne-2/index.php" afterPath="$PROJECT_DIR$/ylesanne-2/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ylesanne-3/index.php" afterPath="$PROJECT_DIR$/ylesanne-3/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ylesanne-3/result.php" afterPath="$PROJECT_DIR$/ylesanne-3/result.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="2-periood-arvestus.iws" />
@@ -27,18 +28,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ylesanne-2/index.php">
+        <entry file="file://$PROJECT_DIR$/ylesanne-3/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374">
+            <state line="10" column="69" selection-start="304" selection-end="304" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redirect.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ylesanne-2/redirect.php">
+      <file leaf-file-name="result.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ylesanne-3/result.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state line="22" column="53" selection-start="716" selection-end="770" vertical-scroll-proportion="0.54545456" vertical-offset="68" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -60,6 +61,8 @@
         <option value="$PROJECT_DIR$/ylesanne-1/index.php" />
         <option value="$PROJECT_DIR$/ylesanne-1/result.php" />
         <option value="$PROJECT_DIR$/ylesanne-2/index.php" />
+        <option value="$PROJECT_DIR$/ylesanne-3/index.php" />
+        <option value="$PROJECT_DIR$/ylesanne-3/result.php" />
       </list>
     </option>
   </component>
@@ -124,7 +127,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ylesanne-2" />
+              <option name="myItemId" value="ylesanne-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2-periood-arvestus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2-periood-arvestus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ylesanne-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,7 +184,11 @@
       <created>1415174480636</created>
       <updated>1415174480636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second exercise done">
+      <created>1415175289754</created>
+      <updated>1415175289754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -208,19 +229,13 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="First exercise done" />
-    <option name="LAST_COMMIT_MESSAGE" value="First exercise done" />
+    <MESSAGE value="Second exercise done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second exercise done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ylesanne-1/result.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="272" selection-end="272" vertical-scroll-proportion="0.39253998" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ylesanne-1/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="9" selection-start="198" selection-end="198" vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="563">
@@ -228,16 +243,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ylesanne-2/index.php">
+    <entry file="file://$PROJECT_DIR$/ylesanne-2/redirect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ylesanne-2/redirect.php">
+    <entry file="file://$PROJECT_DIR$/ylesanne-2/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+        <state line="16" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="0.4848485" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ylesanne-3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="69" selection-start="304" selection-end="304" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ylesanne-1/result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="274" selection-end="295" vertical-scroll-proportion="0.3939394" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ylesanne-3/result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="53" selection-start="716" selection-end="770" vertical-scroll-proportion="0.54545456" vertical-offset="68" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
