@@ -6,5 +6,10 @@
   </head>
 
   <body>
+  <?php
+  $username = "Tõnis";
+  $age = 27;
+  ?>
+  <a href="<?php echo "result.php".'?username='.$username . '&age='.$age?>">Result</a>
   </body>
 </html>
